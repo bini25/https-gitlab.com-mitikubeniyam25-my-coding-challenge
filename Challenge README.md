@@ -1,5 +1,4 @@
-Usage: ${0##*/} [-d OUTPUT_DIR] [-e ERROR_DIR] FILE1 FILE2
-Script takes two delimited files as input. 
+Create a script that takes two delimited files as input.
 The first file should be comma separated and the second file should be tab delimited. 
 
 Both files should have a column that represents identifier for a row.
@@ -15,8 +14,3 @@ A rowID in file A does not appear in file B
 A rowID in file B does not appear in file A
 Input files that have errors in them should be: moved to an error directory and an error file should be created using the basename of the input files.
 A message should be written to the error file indicating: which rowID failed for which file and why.
-
-    -h          display this help and exit
-    -d OUTPUT_DIR write the result to OUTPUT_DIR instead of current_directory/output.
-    -e ERROR_DIR write the result to ERROR_DIR instead of current_directory/error.
-EOF
