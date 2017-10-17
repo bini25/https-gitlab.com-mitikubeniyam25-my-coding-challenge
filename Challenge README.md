@@ -14,3 +14,6 @@ A rowID in file A does not appear in file B
 A rowID in file B does not appear in file A
 Input files that have errors in them should be: moved to an error directory and an error file should be created using the basename of the input files.
 A message should be written to the error file indicating: which rowID failed for which file and why.
+
+
+Submit your working script(s) to this project! Good luck!
