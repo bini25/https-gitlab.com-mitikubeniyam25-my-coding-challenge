@@ -10,7 +10,10 @@ For this homework challenge, you can choose between completing #1 or #2
 
     1. Write a program/script that does the following:
         - Write a program/script that turns an integer n into a list containing it n times.
-            - Given an integer n as input, return a list containing n, repeated n amount of times. (For example, the program would take 8 and turn it into [8,8,8,8,8,8,8,8]. The elements need to be integers, not strings. If the language you choose has a built-in function that accomplishes this task, try to avoid using it. Additionally, n can not equal 0 for the sake of this challenge ;))
+            - Given an integer n as input, return a list containing n, repeated n amount of times. 
+            (For example, the program would take 8 and turn it into [8,8,8,8,8,8,8,8]. The elements need to be integers, not strings. 
+            If the language you choose has a built-in function that accomplishes this task, try to avoid using it. 
+            Additionally, n can not equal 0 for the sake of this challenge ;))
         
     2. Submit a code sample of something you've written with an explanaiton of it's intended use. The example should:
         - Have instructions of how to execute it for us to review.
