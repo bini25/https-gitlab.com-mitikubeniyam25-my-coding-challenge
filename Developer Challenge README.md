@@ -18,3 +18,4 @@ For this homework challenge, you can choose between completing #1 or #2
     2. Submit a code sample of something you've written with an explanaiton of it's intended use. The example should:
         - Have instructions of how to execute it for us to review.
         - Be written in any language, showcase your best.
+        - Be no more than 1,000 lines of code.
