@@ -29,7 +29,7 @@ Please use whichever lanugae you're comfortable with, but typically for a DBA, D
             b. which file and 
             c. why.
 
-Example input files:
+Example of inputs in a file:
 
 File A (comma separated):
 
