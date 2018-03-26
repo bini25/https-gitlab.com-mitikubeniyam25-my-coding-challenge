@@ -4,7 +4,7 @@ Once you complete this exercise please email the script that you wrote as well a
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
-Please use whichever lanugae you're comfortable with, but typically for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash is you can work it out, lol. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
+Please use whichever lanugae you're comfortable with, but typically for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash if you can work it out, lol. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
 
     1. Write a script which takes two delimited files as input.
         - The first file should be comma separated and the second file should be tab delimited. 
