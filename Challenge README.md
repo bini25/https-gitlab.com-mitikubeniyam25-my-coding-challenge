@@ -4,6 +4,8 @@ Once you complete this exercise please email the script that you wrote as well a
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
+Please use whichever lanugae you're comfortable with, as long as we can execute it and see the results, it's fine with us.
+
     1. Write a script which takes two delimited files as input.
         - The first file should be comma separated and the second file should be tab delimited. 
         - Both files should have a column that represents identifier for a row.
