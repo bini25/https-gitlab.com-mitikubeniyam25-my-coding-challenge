@@ -9,7 +9,7 @@ Please use whichever lanugae you're comfortable with, as a developer you're expe
 For this homework challenge, you can choose between completing #1 or #2
 
     1. Write a program/script that does the following:
-        - Write a program/script that turns an integer n into a list containing it n times.
+        i. Write a program/script that turns an integer n into a list containing it n times.
             - Given an integer n as input, return a list containing n, repeated n amount of times. 
             (For example, the program would take 8 and turn it into [8,8,8,8,8,8,8,8]. The elements need to be integers, not strings. 
             If the language you choose has a built-in function that accomplishes this task, try to avoid using it. 
