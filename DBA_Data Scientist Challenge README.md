@@ -4,7 +4,7 @@ Once you complete this exercise please email the script that you wrote as well a
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
-Please use whichever lanugae you're comfortable with, as long as we can execute it and see the results, it's fine with us.
+Please use whichever lanugae you're comfortable with, but typically for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, or Python. However, as long as you can provide instructions and we can execute it and see the results, whatever you chose is fine with us.
 
     1. Write a script which takes two delimited files as input.
         - The first file should be comma separated and the second file should be tab delimited. 
@@ -18,7 +18,7 @@ Please use whichever lanugae you're comfortable with, as long as we can execute 
         - The output file should be tab separated, and contain the "merge" of the valid files (one output file per pair)
 
     3. Your script should handle these error conditions at a minimum:
-        - A rowID n file A does not appear in file B
+        - A rowID in file A does not appear in file B
         - A rowID in file B does not appear in file A
 
     4. Input files that have errors in them should be:
@@ -39,6 +39,6 @@ File A (comma separated):
 
 File B (tab separated):
 
-1234	   "This is the first content line"
+1234    "This is the first content line"
 
-1235	   "This is another content line"
+1235    "This is another content line"
