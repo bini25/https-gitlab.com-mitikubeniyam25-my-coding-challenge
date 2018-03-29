@@ -12,9 +12,9 @@ For this homework challenge, you can choose between completing #1 or #2. Challen
         - Write a program/script that writes a program/script that writes itself.
         - Write a simple program/script that can be executed in more then one language with no changes.
         
-    2. Submit a code sample of a tool or automated task you've written with an explanaiton of its intended use. The example should:
+    2. Submit a code sample of a tool or automated task you've written with an explanation of its intended use. The example should:
         - Have instructions of how to execute it for us to review.
-        - Be written in any language, but preferably written in a language most DevOps/SysOps/SysAdmin's would use regularly.
+        - Be written in any language, but preferably written in a language most DevOps/SysOps/SysAdmins would use regularly.
         - Be no more than 1,000 lines of code.
 
     3. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do:
