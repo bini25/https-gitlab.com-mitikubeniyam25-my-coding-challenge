@@ -8,7 +8,7 @@ Please use whichever language you're comfortable with, but typically for a DevOp
 
 For this homework challenge, you can choose between completing #1 or #2. Challenge #3 is mandatory for all submissions.
 
-    1. Write programs/scripts that do the following:
+    1. Write a program/script that does the following:
         - Write a program/script that writes a program/script that writes itself.
         - Write a simple program/script that can be executed in more then one language with no changes.
         
