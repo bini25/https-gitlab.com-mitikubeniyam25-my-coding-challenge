@@ -8,9 +8,16 @@ Please use whichever language you're comfortable with. As a developer, you're ex
 
 For this homework challenge, you can choose between completing #1 or #2
 
-    1. Write a program/script that does the following:
-            - Given an integer n as input, return a list containing n repeated n times. 
-            (For example, the program would take 8 and turn it into [8,8,8,8,8,8,8,8]. The elements need to be integers, not strings. 
+    1. Write a code that prints all combinations of positive integers in increasing order that sum to a given positive number:
+            (For example, the program would take an input of and prints out:
+            [1 1 1 1 1]
+            [1 1 1 2]
+            [1 1 3]
+            [1 2 2]
+            [1 4]
+            [2 3]
+            [5] 
+            The elements need to be integers, not strings. 
             If the language you choose has a built-in function that accomplishes this task, try to avoid using it. 
             Additionally, n cannot equal 0 for the sake of this challenge ;))
         
