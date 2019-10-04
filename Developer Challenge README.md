@@ -1,6 +1,6 @@
 ------------------------------- Challenge instructions -------------------------------
 
-Once you complete this exercise, please email the submission to hr@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line. (e.g. 'John Public - Software Application Developer: Interview Challenge Submission').
+Once you complete this exercise, please email the submission to jobs@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line. (e.g. 'John Public - Software Application Developer: Interview Challenge Submission').
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test. We're looking for cleverness and attention to detail, not how quickly you can get it done.
 
