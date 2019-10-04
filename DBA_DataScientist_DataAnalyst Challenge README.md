@@ -1,6 +1,6 @@
 ------------------------------- Challenge instructions -------------------------------
 
-Once you complete this exercise, please email the script that you wrote as well as the test input files you used to hr@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line (e.g. 'John Public - Data Analyst: Interview Challenge Submission'). Example files are included below for illustrative purposes, but your input files should contain more data. 
+Once you complete this exercise, please email the script that you wrote as well as the test input files you used to jobs@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line (e.g. 'John Public - Data Analyst: Interview Challenge Submission'). Example files are included below for illustrative purposes, but your input files should contain more data. 
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
