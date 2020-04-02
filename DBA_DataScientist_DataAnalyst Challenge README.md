@@ -4,9 +4,9 @@ Once you complete this exercise, please email the script that you wrote as well 
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
-Please use whichever language you're comfortable with, but for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash if you can work it out. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
+Please use whichever language you're comfortable with, but for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash (awk/sed) if you can work it out. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
 
-    1. Write a script which takes two delimited files as input.
+    1. Write a script/program which takes two delimited files as input.
         - The first file should be comma separated and the second file should be tab delimited. 
         - Both files should have a column that represents identifier for a row.
         - Both files should have the same basename.
@@ -17,7 +17,7 @@ Please use whichever language you're comfortable with, but for a DBA, Data Scien
         - Use the same basename as the two input files.
         - Be tab separated and contain the "merge" of the valid files (one output file per pair).
 
-    3. Your script should handle these error conditions at a minimum:
+    3. Your script/program should handle these error conditions at a minimum:
         - A rowID in file A does not appear in file B.
         - A rowID in file B does not appear in file A.
 
@@ -42,3 +42,29 @@ File B (tab separated):
 1234    "This is the first content line"
 
 1235    "This is another content line"
+
+**Mandatory Work:**
+
+- Fork this repository
+- Provide instructions on how to execute your solution
+- Provide the script/program that solves your solution. Use your scripting language of choice.
+- Alter the README to contain the steps required to:
+
+```
+    1. Run the script/program you created.
+```
+
+- Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
+
+**Q:** What will you be grading me on?
+
+**A:** Scripting/Coding skills, ellegance, understanding of the technologies you use, security, documentation.
+
+
+**Q:** Will I have a chance to explain my choices?
+
+**A:** Feel free to comment your code, or put explanations in a pull request within the repo. If we proceed to a phone interview, we’ll be asking questions about why you made the choices you made.
+
+**Q:** Why doesn't the test include XY and Z?
+
+**A:** Dope question! PLEASE free to tell us how to make the test better. Or, you know, fork it and improve it! 
