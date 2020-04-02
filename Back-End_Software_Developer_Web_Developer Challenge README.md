@@ -28,7 +28,7 @@ meetingDuration = 30
 ***Sample Output***
 
 `[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]`
-        
+
 > **Water Area (5 points):** 
 
 You are given an array of non-negative integers where each non-zero integer represents the height of a pillar of width `1`. Imagine water being poured over all the pillars; write a function that returns the surface area of the water trapped between the pillars viewed from the front. Note that spilled water should be ignored.
@@ -181,10 +181,10 @@ array = [141, 1, 17, -7, -17, -417, 99, 75, 541, 8,7, 7]
 
 > **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
 
-    Submit a code sample of something you've written with an explanation of its intended use. The example should:
-        - Have instructions on how to execute it for us to review.
-        - Be written in any language. Showcase your best.
-        - Be no more than 1,000 lines of code.
+Submit a code sample of something you've written with an explanation of its intended use. The example should:
+* - Have instructions on how to execute it for us to review.
+* - Be written in any language. Showcase your best.
+* - Be no more than 1,000 lines of code.
 
 **Mandatory Work:**
 
@@ -194,7 +194,7 @@ array = [141, 1, 17, -7, -17, -417, 99, 75, 541, 8,7, 7]
 - Alter the README to contain the steps required to:
 
 ```
-    1. Run the code you created.
+1. Run the code you created.
 ```
 
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
