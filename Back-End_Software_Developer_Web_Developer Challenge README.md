@@ -27,7 +27,7 @@ meetingDuration = 30
 ```
 ***Sample Output***
 
-[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]
+`[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]`
         
 **Water Area (5 points):**
 
@@ -41,6 +41,22 @@ heights = [0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3]
 ***Sample Output***
 
 `48`
+
+**Four Number Sum (5 points):**
+
+Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum. the function should find all quadruplets in the array that sum up to the target sum and return a two-dimensional array of all these quadruplets in no particular order.
+
+If no four numbers sum up to the target sum, the function should return an empty array.
+
+***Sample Input***
+
+```
+array = [7,6,4,-1,1,2]
+targetSum = 16
+```
+***Sample Output***
+
+`[[7,6,4,-1], [7,6,1,2]] // the quadruplets could be ordered differently`
 
 **Extra Credit (we recommended taking a stab, but seriously not mandatory)**
 
