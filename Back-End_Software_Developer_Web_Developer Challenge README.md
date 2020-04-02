@@ -147,6 +147,38 @@ key = 2
 
 `"zab"`
 
+> **Palindrome Check (1 points):** 
+
+Write a function that takes in a non-empty string and that returns a boolean representing whether the string is a palindrome.
+
+A palindrome is defined as a string that's written the same forward and backward. *Note*: a single-character string is not a palindrome. 
+
+***Sample Input***
+
+```
+string = "abcdcba"
+```
+
+***Sample Output***
+
+`true` // it's written the same forward and backward.
+
+> **Find Three Largest Numbers (1 points):** 
+
+Write a function that takes in an array of integers and returns a sorted array of the three largest integers in the input array.
+
+The function should return duplicate integers if necessary; for example, it should return `[10, 10, 12]` for an input array of `[10, 5, 9, 10, 12]`.
+
+***Sample Input***
+
+```
+array = [141, 1, 17, -7, -17, -417, 99, 75, 541, 8,7, 7]
+```
+
+***Sample Output***
+
+`[99, 141, 541]`
+
 > **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
 
     Submit a code sample of something you've written with an explanation of its intended use. The example should:
@@ -154,30 +186,23 @@ key = 2
         - Be written in any language. Showcase your best.
         - Be no more than 1,000 lines of code.
 
-**Prerequisites:**
-
-- You will need an account in your virtual cloud of choice. Create one if you don't own one already. You can use free-tier resources for this test!
-- Webserver has to be publicly accessible.
-- You webserver should serve up a /version.txt file, containing only static text representing the version number of your webserver build, for example: Server version: Apache/2.4.6 (CentOS).
-
 **Mandatory Work:**
 
 - Fork this repository
-- Provide instructions on how to create the server with your script
-- Provide the script that can be run periodically (and externally) to check if the server is up and serving the expected version number. Use your scripting language of choice.
+- Provide instructions on how to execute your solutions
+- Provide the code that solves your solutions. Use your language of choice.
 - Alter the README to contain the steps required to:
 
 ```
-    1. Create the server.
-    2. Run the checker script you created.
+    1. Run the code you created.
 ```
 
-- Provide us credentials to login to the virtual cloud account. If you have other resources in it make sure we can only access what is related to this test.
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
 
 **Q:** What will you be grading me on?
 
-**A:** Scripting skills, ellegance, understanding of the technologies you use, security, documentation.
+**A:** Scripting/Coding skills, ellegance, understanding of the technologies you use, security, documentation.
+
 
 **Q:** Will I have a chance to explain my choices?
 
