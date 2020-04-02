@@ -6,7 +6,7 @@ Please don't hesitate to contact your interviewer if you have any questions or f
 
 Please approach this task however you're comfortable with to complete this task.
 
-**The Challenge**
+> **The Challenge** 
 
 Theta has been tasked with developing a new 'News Feed' feature for a clients existing web application, but we haven't been given any real direction outside of a basic SOO.
 
