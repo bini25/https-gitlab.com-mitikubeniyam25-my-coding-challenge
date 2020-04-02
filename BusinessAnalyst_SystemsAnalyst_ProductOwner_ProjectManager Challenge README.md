@@ -21,10 +21,13 @@ Assume you'd have an engineer/developer/architect that you could work closely wi
 - Provide a write of the 6-10 questions you'd ask the client to illicit requirements, features, tasks, etc... to help formulate specs for engineers and developers to work off of.
 
 **Q:** What will you be grading me on?
+
 **A:** Cleverness, Communication Skills, Elegance of questions asked, understanding of the technologies your team would work with, security, documentation, etc...
 
 **Q:** Will I have a chance to explain my choices?
+
 **A:** Feel free to comment your code, or put explanations in a pull request within the repo. If we proceed to a phone interview, we’ll be asking questions about why you made the choices you made.
 
 **Q:** Why doesn't the test include XY and Z?
+
 **A:** Dope question! PLEASE free to tell us how to make the test better. Or, you know, fork it and improve it!
