@@ -100,6 +100,25 @@ matrix = [
 
 `[1, 2, 2, 2, 5] // the numbers could be ordered any way.`
 
+> **Min Number of Coins for Change (3 points):** 
+
+Given an array of positive integers representng coin denominations and a single non-negative integer `n` representing a target amount of money, write a function that returns the smallest number of coins needed to make change for that target amount using the given coin denominations. 
+
+If it's impossible to make change for the target amount, return `-1`.
+
+Note that an unlimited amount of coins is at your disposal.
+
+***Sample Input***
+
+```
+n = 7
+denoms = [1, 5, 10]
+```
+
+***Sample Output***
+
+`3 // 2x1 + 1x5`
+
 > **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
 
     Submit a code sample of something you've written with an explanation of its intended use. The example should:
