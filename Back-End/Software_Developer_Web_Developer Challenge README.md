@@ -16,6 +16,17 @@ Write a fuction that takes in your calendar, your daily bounds, your co-worker's
 
 Note that times will be given and should be returned in military time. For example: `1:12`, `7:02`, and `17:38`.
 
+**Sample Input**
+
+```
+*calendar1* = [['9:00, '10:30'],['12:00, '13:00'], ['16:00, '18:00']]
+*dailyBounds1* = [['9:00, '20:30']
+*calendar2* = [['10:00, '11:30'],['12:30, '14:30'], ['14:30, '15:00'], ['16:00, '17:00']]
+*dailyBounds2* = [['10:00, '18:30']
+*meetingDuration* = 30
+```
+
+
         
     2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do:
         - This submission may come from a personal environment.
