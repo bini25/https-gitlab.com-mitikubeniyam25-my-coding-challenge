@@ -8,7 +8,6 @@ Please use whichever language you're comfortable with. As a developer, you're ex
 
 **For this homework challenge, you have to complete enough challenges to equal a total of 10 points, how you get to 10 is completely up to you**
 
-
 > **Calendar Matching (10 points):** 
 
 Imagine that you want to schedule a meeting of a certain duration with one of your Theta co-workers. You have access to your Theta calendar and your co-workers Theta calendar (both of which contain the entirety of your respective meetings for the day in the form of `[startTime, endTime]`), as well as both of your daily bounds (i.e. the earliest and the latest times at which you're available for meetings everyday, in the form of `[earliestTime, latestTime]`).
@@ -30,7 +29,6 @@ meetingDuration = 30
 
 `[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]`
         
-
 > **Water Area (5 points):** 
 
 You are given an array of non-negative integers where each non-zero integer represents the height of a pillar of width `1`. Imagine water being poured over all the pillars; write a function that returns the surface area of the water trapped between the pillars viewed from the front. Note that spilled water should be ignored.
@@ -43,7 +41,6 @@ heights = [0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3]
 ***Sample Output***
 
 `48`
-
 
 > **Four Number Sum (5 points):** 
 
@@ -59,7 +56,7 @@ targetSum = 16
 ```
 ***Sample Output***
 
-`[[7, 6, 4, -1], [7, 6, 1, 2]] // the quadruplets could be ordered differently`
+`[[7, 6, 4, -1], [7, 6, 1, 2]]` // the quadruplets could be ordered differently
 
 > **Smallest Difference (3 points):** 
 
@@ -98,7 +95,7 @@ matrix = [
 
 ***Sample Output***
 
-`[1, 2, 2, 2, 5] // the numbers could be ordered any way.`
+`[1, 2, 2, 2, 5]` // the numbers could be ordered any way.
 
 > **Min Number of Coins for Change (3 points):** 
 
@@ -117,7 +114,7 @@ denoms = [1, 5, 10]
 
 ***Sample Output***
 
-`3 // 2x1 + 1x5`
+`3`// 2x1 + 1x5
 
 > **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
 
@@ -150,7 +147,6 @@ denoms = [1, 5, 10]
 **Q:** What will you be grading me on?
 
 **A:** Scripting skills, ellegance, understanding of the technologies you use, security, documentation.
-
 
 **Q:** Will I have a chance to explain my choices?
 
