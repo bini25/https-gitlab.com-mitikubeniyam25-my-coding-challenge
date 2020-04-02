@@ -6,7 +6,7 @@ Please don't hesitate to contact your interviewer if you have any questions or f
 
 Please use whichever language you're comfortable with, but for a DBA, Data Scientist, ETL Developer, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash (awk/sed) if you can work it out. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
 
-**The Challenge!**
+> **The Challenge!** 
 
 **1. Write a script/program which takes two delimited files as input.**
 ```
