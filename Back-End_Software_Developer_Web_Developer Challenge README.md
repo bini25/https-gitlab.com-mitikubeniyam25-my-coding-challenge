@@ -179,12 +179,12 @@ array = [141, 1, 17, -7, -17, -417, 99, 75, 541, 8,7, 7]
 
 `[99, 141, 541]`
 
-> **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
+> **Extra Credit [0 points](we recommended taking a stab, but seriously not mandatory)** 
 
 Submit a code sample of something you've written with an explanation of its intended use. The example should:
-* - Have instructions on how to execute it for us to review.
-* - Be written in any language. Showcase your best.
-* - Be no more than 1,000 lines of code.
+- Have instructions on how to execute it for us to review.
+- Be written in any language. Showcase your best.
+- Be no more than 1,000 lines of code.
 
 **Mandatory Work:**
 
