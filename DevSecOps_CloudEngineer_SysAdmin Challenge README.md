@@ -43,6 +43,8 @@ Please use whichever language you're comfortable with, but typically for a DevSe
 - Provide us credentials to login to the virtual cloud account. If you have other resources in it make sure we can only access what is related to this test.
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
 
+**FAQS:**
+
 **Q:** What will you be grading me on?
 
 **A:** Scripting skills, ellegance, understanding of the technologies you use, security, documentation.
