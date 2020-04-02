@@ -8,7 +8,8 @@ Please use whichever language you're comfortable with. As a developer, you're ex
 
 **For this homework challenge, you have to complete enough challenges to equal a total of 10 points, how you get to 10 is completely up to you**
 
-**Calendar Matching (10 points):**
+
+> **Calendar Matching (10 points):** 
 
 Imagine that you want to schedule a meeting of a certain duration with one of your Theta co-workers. You have access to your Theta calendar and your co-workers Theta calendar (both of which contain the entirety of your respective meetings for the day in the form of `[startTime, endTime]`), as well as both of your daily bounds (i.e. the earliest and the latest times at which you're available for meetings everyday, in the form of `[earliestTime, latestTime]`).
 
