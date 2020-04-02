@@ -6,21 +6,27 @@ Please don't hesitate to contact your interviewer if you have any questions or f
 
 Please use whichever language you're comfortable with, but typically for a DevSecOps/CloudEngineer/SysAdmin position, we are expecting: Bash, Perl, Python, PowerShell, or even C (if you're talented enough not to make mistakes :P), but as long as we can execute it and see the results, it's fine with us.
 
-**For this homework challenge, you have to complete both challenges (#1 and #2) #3 is extra credit and not mandatory.**
+**For this homework challenge, you have to complete both challenges (#1 and #2); #3 is extra credit and not mandatory.**
 
 1. The goal of this challenge is for you to write programs/scripts that do the following:
+```
   - Creates a webserver (Apache, Nginx, or IIS) in AWS, Azure, or Google Cloud Engine (if that's your thing)
   - A separate script that periodically checks to make sure that your webserver is up and running.
+```
 
 2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do:
+```
   - This submission may come from a personal environment.
   - This submission may come from a work environment (use the best judgment).
+```
 
 **Extra Credit (we recommended taking a stab, but seriously not mandatory)**
 
 3. Write a program/script that does the following:
+```
  - Write a program/script that writes a program/script that writes itself.
  - Write a simple program/script that can be executed in more than one language with no changes.
+```
 
 **Prerequisites:**
 
@@ -48,7 +54,6 @@ Please use whichever language you're comfortable with, but typically for a DevSe
 **Q:** What will you be grading me on?
 
 **A:** Scripting skills, elegance, understanding of the technologies you use, security, documentation.
-
 
 **Q:** Will I have a chance to explain my choices?
 
