@@ -28,7 +28,7 @@ Please use whichever language you're comfortable with, but typically for a DevSe
 - Webserver has to be publicly accessible.
 - You webserver should serve up a /version.txt file, containing only static text representing the version number of your webserver build, for example: Server version: Apache/2.4.6 (CentOS).
 
-**Mandatory Work: **
+**Mandatory Work:**
 
 - Fork this repository
 - Provide instructions on how to create the server with your script
@@ -43,12 +43,15 @@ Please use whichever language you're comfortable with, but typically for a DevSe
 - Provide us credentials to login to the virtual cloud account. If you have other resources in it make sure we can only access what is related to this test.
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
 
-* **Q:** What will you be grading me on?
-* **A:** Scripting skills, ellegance, understanding of the technologies you use, security, documentation.
+**Q:** What will you be grading me on?
+
+**A:** Scripting skills, ellegance, understanding of the technologies you use, security, documentation.
 
 
-* **Q:** Will I have a chance to explain my choices?
-* **A:** Feel free to comment your code, or put explanations in a pull request within the repo. If we proceed to a phone interview, we’ll be asking questions about why you made the choices you made.
+**Q:** Will I have a chance to explain my choices?
 
-* **Q:** Why doesn't the test include XY and Z?
-* **A:** Dope question! PLEASE free to tell us how to make the test better. Or, you know, fork it and improve it! 
+**A:** Feel free to comment your code, or put explanations in a pull request within the repo. If we proceed to a phone interview, we’ll be asking questions about why you made the choices you made.
+
+**Q:** Why doesn't the test include XY and Z?
+
+**A:** Dope question! PLEASE free to tell us how to make the test better. Or, you know, fork it and improve it! 
