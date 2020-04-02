@@ -34,6 +34,7 @@ Mandatory Work:
 - Provide instructions on how to create the server with your script
 - Provide the script that can be run periodically (and externally) to check if the server is up and serving the expected version number. Use your scripting language of choice.
 - Alter the README to contain the steps required to:
+
     1. Create the server.
     2. Run the checker script you created.
 
