@@ -16,27 +16,38 @@ Write a fuction that takes in your calendar, your daily bounds, your co-worker's
 
 Note that times will be given and should be returned in military time. For example: `1:12`, `7:02`, and `17:38`.
 
-**Sample Input**
+***Sample Input***
 
 ```
-*calendar1* = [['9:00, '10:30'],['12:00, '13:00'], ['16:00, '18:00']]
-*dailyBounds1* = [['9:00, '20:30']
-*calendar2* = [['10:00, '11:30'],['12:30, '14:30'], ['14:30, '15:00'], ['16:00, '17:00']]
-*dailyBounds2* = [['10:00, '18:30']
-*meetingDuration* = 30
+calendar1 = [['9:00, '10:30'],['12:00, '13:00'], ['16:00, '18:00']]
+dailyBounds1 = [['9:00, '20:30']
+calendar2 = [['10:00, '11:30'],['12:30, '14:30'], ['14:30, '15:00'], ['16:00, '17:00']]
+dailyBounds2 = [['10:00, '18:30']
+meetingDuration = 30
 ```
+***Sample Output***
 
-
+[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]
         
-    2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do:
-        - This submission may come from a personal environment.
-        - This submission may come from a work environment (use best judgement).
+**Water Area (5 points):**
+
+You are given an array of non-negative integers where each non-zero integer represents the height of a pillar of width `1`. Imagine water being poured over all the pillars; write a function that returns the surface area of the water trapped between the pillars viewed from the front. Note that spilled water should be ignored.
+
+***Sample Input***
+
+```
+heights = [0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3]
+```
+***Sample Output***
+
+`48`
 
 **Extra Credit (we recommended taking a stab, but seriously not mandatory)**
 
-    3. Write a program/script that does the following:
-        - Write a program/script that writes a program/script that writes itself.
-        - Write a simple program/script that can be executed in more then one language with no changes.
+    Submit a code sample of something you've written with an explanation of its intended use. The example should:
+        - Have instructions of how to execute it for us to review.
+        - Be written in any language. Showcase your best.
+        - Be no more than 1,000 lines of code.
 
 **Prerequisites:**
 
