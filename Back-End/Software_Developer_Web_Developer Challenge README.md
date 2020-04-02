@@ -1,6 +1,6 @@
 ------------------------------- Challenge instructions -------------------------------
 
-Once you complete this exercise, please email the submission to jobs@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line. (e.g. 'John Public - Software Application Developer: Interview Challenge Submission').
+Once you complete this exercise, please email the submission to jobs@theta-llc.com with your name, a hyphen, the position you're interviewing for, a colon, and 'Interview Challenge Submission' for in  the subject line. (e.g. 'John Public - Back-End Developer: Interview Challenge Submission').
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test. We're looking for cleverness and attention to detail, not how quickly you can get it done.
 
@@ -16,9 +16,6 @@ Write a fuction that takes in your calendar, your daily bounds, your co-worker's
 
 Note that times will be given and should be returned in military time. For example: `1:12`, `7:02`, and `17:38`.
 
-1. Calendar Matching (10 points):The goal of this challenge is for you to write programs/scripts that do the following:
-        - Creates a webserver (Apache, Nginx, or IIS) in AWS, Azure, or Google Cloud Engine (if that's your thing)
-        - A seperate script that periodicallly checks to make sure that your webserver is up and running.
         
     2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do:
         - This submission may come from a personal environment.
