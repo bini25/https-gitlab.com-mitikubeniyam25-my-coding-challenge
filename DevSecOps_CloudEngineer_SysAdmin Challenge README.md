@@ -9,19 +9,19 @@ Please use whichever language you're comfortable with, but typically for a DevSe
 **For this homework challenge, you have to complete both challenges (#1 and #2); #3 is extra credit and not mandatory.**
 
 
-> Challenge 1. The goal of this challenge is for you to write programs/scripts that do the following: 
+**> Challenge 1. The goal of this challenge is for you to write programs/scripts that do the following: **
 ```
   - Creates a webserver (Apache, Nginx, or IIS) in AWS, Azure, or Google Cloud Engine (if that's your thing)
   - A separate script that periodically checks to make sure that your webserver is up and running.
 ```
 
-> Challenge 2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do: 
+**> Challenge 2. Submit a copy of your .profile, .bashrc, .bash_profile, .bash_logout; for Windows users your profile.ps1 will do: **
 ```
   - This submission may come from a personal environment.
   - This submission may come from a work environment (use the best judgment).
 ```
 
-> Challenge 3. Write a program/script that does the following: **Extra Credit (we recommend doing it, but seriously not mandatory, not doing it doesn't hurt you at all)** 
+**> Challenge 3. Write a program/script that does the following: *Extra Credit (we recommend doing it, but seriously not mandatory, not doing it doesn't hurt you at all)* **
 
 ```
  - Write a program/script that writes a program/script that writes itself.
