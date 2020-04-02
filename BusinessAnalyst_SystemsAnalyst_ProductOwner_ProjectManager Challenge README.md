@@ -20,6 +20,8 @@ Assume you'd have an engineer/developer/architect that you could work closely wi
 
 - Provide a write of the 6-10 questions you'd ask the client to illicit requirements, features, tasks, etc... to help formulate specs for engineers and developers to work off of.
 
+**FAQS:**
+
 **Q:** What will you be grading me on?
 
 **A:** Cleverness, Communication Skills, Elegance of questions asked, understanding of the technologies your team would work with, security, documentation, etc...
