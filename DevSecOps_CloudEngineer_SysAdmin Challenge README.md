@@ -20,7 +20,7 @@ Please use whichever language you're comfortable with, but typically for a DevSe
   - This submission may come from a work environment (use the best judgment).
 ```
 
-**Extra Credit (we recommended taking a stab, but seriously not mandatory)**
+**Extra Credit (we recommend doing it, but seriously not mandatory, not doing it doesn't hurt you at all)**
 
 3. Write a program/script that does the following:
 ```
