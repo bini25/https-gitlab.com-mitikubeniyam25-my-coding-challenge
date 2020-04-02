@@ -44,7 +44,6 @@ Example of inputs in a file:
 *File A (comma separated):*
 ```
 1234, Jan 13 2014 13:55:42 GMT
-
 1235, Jan 13 2014 18:55:42 GMT
 ```
 
