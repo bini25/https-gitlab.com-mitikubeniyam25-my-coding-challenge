@@ -4,7 +4,7 @@ Once you complete this exercise, please email the submission to jobs@theta-llc.c
 
 Please don't hesitate to contact your interviewer if you have any questions or feedback about the test. We're looking for cleverness and attention to detail, not how quickly you can get it done.
 
-Please use whichever language you're comfortable with, but typically for a DevSecOps/CloudEngineer/SysAdmin position, we are expecting: Bash, Perl, Python, PowerShell, C, or even C++ (We've seen it all!), but as long as we can execute it and see the results, it's fine with us.
+Please use whichever language you're comfortable with, but typically for a DevSecOps/CloudEngineer/SysAdmin position, we are expecting: Bash, Perl, Python, PowerShell, or even C (if you're talented enough to not make mistakes :P), but as long as we can execute it and see the results, it's fine with us.
 
 **For this homework challenge, you have to complete both challenges (#1 and #2) #3 is extra credit and not mandatory.**
 
