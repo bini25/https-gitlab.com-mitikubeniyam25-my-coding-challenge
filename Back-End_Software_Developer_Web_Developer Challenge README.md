@@ -199,6 +199,8 @@ array = [141, 1, 17, -7, -17, -417, 99, 75, 541, 8,7, 7]
 
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
 
+**FAQS:**
+
 **Q:** What will you be grading me on?
 
 **A:** Scripting/Coding skills, ellegance, understanding of the technologies you use, security, documentation.
