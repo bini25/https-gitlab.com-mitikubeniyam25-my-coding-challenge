@@ -4,7 +4,7 @@ Once you complete this exercise, please email the script that you wrote as well 
 
 Please don't hesitate contact your interviewer if you have any questions or feedback about the test.  We're looking for accuracy and attention to detail, not how quickly you can get it done.
 
-Please use whichever language you're comfortable with, but for a DBA, Data Scientist, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash (awk/sed) if you can work it out. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
+Please use whichever language you're comfortable with, but for a DBA, Data Scientist, ETL Developer, or Data Analyst position, we are expecting: R, Java, SQL, Scala, Python, or even Perl and Bash (awk/sed) if you can work it out. As long as you can provide instructions and we can execute it and see the results, whatever you choose is fine with us.
 
     1. Write a script/program which takes two delimited files as input.
         - The first file should be comma separated and the second file should be tab delimited. 
@@ -55,6 +55,8 @@ File B (tab separated):
 ```
 
 - Give our account: theta_llc access to your fork, and send us an email when you’re done using the instructions above. Feel free to ask questions as needed!
+
+**FAQS:**
 
 **Q:** What will you be grading me on?
 
