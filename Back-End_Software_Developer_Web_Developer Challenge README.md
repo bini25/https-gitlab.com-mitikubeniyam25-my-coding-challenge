@@ -116,6 +116,37 @@ denoms = [1, 5, 10]
 
 `3`// 2x1 + 1x5
 
+> **Bubble Sort (1 points):** 
+
+Write a function that takes in an array of integers and returns a sorted version of that array. Use the Bubble Sort algorithm to sort the array.
+
+***Sample Input***
+
+```
+array = [8, 5, 2, 9, 5, 6, 3]
+```
+
+***Sample Output***
+
+`[2, 3, 5, 5, 6, 8, 9]`
+
+> **Caesar Cipher Encryptor (1 points):** 
+
+Given a non-empty string of lowercase letters and a non-negative integer representing a key, write a function that returns a new string obtained by shifting every letter in the input string by `k` positions in the alphabet, where k is the key.
+
+Note that letters should "wrap" around the alphabet; in other words, the letter `z` shifted by one returns the letter `a`.
+
+***Sample Input***
+
+```
+string = "xyz"
+key = 2
+```
+
+***Sample Output***
+
+`"zab"`
+
 > **Extra Credit (we recommended taking a stab, but seriously not mandatory)** 
 
     Submit a code sample of something you've written with an explanation of its intended use. The example should:
