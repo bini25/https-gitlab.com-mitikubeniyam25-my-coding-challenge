@@ -30,7 +30,8 @@ meetingDuration = 30
 
 `[['11:30, '12:00'],['15:00, '16:00'], ['18:00, '18:30']]`
         
-**Water Area (5 points):**
+
+> **Water Area (5 points):** 
 
 You are given an array of non-negative integers where each non-zero integer represents the height of a pillar of width `1`. Imagine water being poured over all the pillars; write a function that returns the surface area of the water trapped between the pillars viewed from the front. Note that spilled water should be ignored.
 
@@ -43,7 +44,8 @@ heights = [0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3]
 
 `48`
 
-**Four Number Sum (5 points):**
+
+> **Four Number Sum (5 points):** 
 
 Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum. the function should find all quadruplets in the array that sum up to the target sum and return a two-dimensional array of all these quadruplets in no particular order.
 
@@ -52,12 +54,29 @@ If no four numbers sum up to the target sum, the function should return an empty
 ***Sample Input***
 
 ```
-array = [7,6,4,-1,1,2]
+array = [7, 6, 4, -1, 1, 2]
 targetSum = 16
 ```
 ***Sample Output***
 
-`[[7,6,4,-1], [7,6,1,2]] // the quadruplets could be ordered differently`
+`[[7, 6, 4, -1], [7, 6, 1, 2]] // the quadruplets could be ordered differently`
+
+> **Smallest Difference (3 points):** 
+
+Write a function that takes in two non-empty arrays of integers, finds the pair of numbers (one from each array) whose abosulute difference is closest to zero, and returns an array containing these two numbers, with the number from the first array in the first position.
+
+Assume that there will only be one pair of numbers with the smallest difference.
+
+***Sample Input***
+
+```
+arrayOne = [-1, 5, 10, 20, 28, 3]
+arrayTwo = [26, 134, 135, 15, 17]
+```
+
+***Sample Output***
+
+`[28, 26]`
 
 **Extra Credit (we recommended taking a stab, but seriously not mandatory)**
 
@@ -99,26 +118,3 @@ targetSum = 16
 **Q:** Why doesn't the test include XY and Z?
 
 **A:** Dope question! PLEASE free to tell us how to make the test better. Or, you know, fork it and improve it! 
-
-
-
-
-
-
-    1. Write a code that prints all combinations of positive integers in increasing order that sum to a given positive number:
-            (For example, the program would take an input of and prints out:
-            [1 1 1 1 1]
-            [1 1 1 2]
-            [1 1 3]
-            [1 2 2]
-            [1 4]
-            [2 3]
-            [5] 
-            The elements need to be integers, not strings. 
-            If the language you choose has a built-in function that accomplishes this task, try to avoid using it. 
-            Additionally, n cannot equal 0 for the sake of this challenge ;))
-        
-    2. Submit a code sample of something you've written with an explanation of its intended use. The example should:
-        - Have instructions of how to execute it for us to review.
-        - Be written in any language. Showcase your best.
-        - Be no more than 1,000 lines of code.
