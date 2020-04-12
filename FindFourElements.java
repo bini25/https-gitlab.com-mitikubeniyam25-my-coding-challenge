@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class FindFourElements{ 
 
   
-    // Driver program to test above functions 
+     
     public static void main(String[] args)  
     { System.out.println("possible combinations");
         
