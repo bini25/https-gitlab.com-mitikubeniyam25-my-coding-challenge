@@ -28,18 +28,18 @@ Sample Output   <br />
 # Technologies 
 - Programing lanague used ------------- Java   <br />
 - source-code editor--------------- Visual Studio Code & online java compiler   <br />
-- version control system------------GitLab/Github <br />
+- version control system------------GitLab & Github desktop  <br />
 
 # Instructions on how to execute
-Note:For both problems the solution is provided using Java programing languge.Any Java compiler should compile and run the provided codes.You can use any  Java editor/JRE/javaIDEs  of your choice.
+Note:for both problems the solution is provided using Java programing languge.Any Java compiler should compile and run the provided codes.You can use any  Java editor/JRE/javaIDEs  of your choice.
 Just copy/download both Java classes provided (waterarea.java and FindFourElements.java), paste to your editor and you should be able to excute it with no problem. 
 
- # Here is a link to a simple online java compiler and procedures to run my code   <br />
+ # Here is a link to a simple online Java compiler and procedures to run my code   <br />
      https://www.tutorialspoint.com/compile_java_online.php
   - Click on  the link
-       -  on the left side you should see a simple hello world program and on the right side you should where theoutput   will be displayed
+       -  on the left side you should see a simple hello world program and on the right side you should see where the output will be displayed
   - Copy the java solution code provided for one of the problems (the entire class).
   - Paste it to the left side on the top of the hello world program.
-  - On the top left menubar side you should see an option that says Execute.
-  - click excute button and the output should display on the right side under result.
+  - On the menubar near the top left corner  you should see an option that says Execute.
+  - click excute button to run the code and the output should be displayed on the right side under result.
 
